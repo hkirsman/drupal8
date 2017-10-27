@@ -1,0 +1,14 @@
+uuid: e282daf0-b2b4-4473-9806-305e21c0b8cd
+name: 'Drupal 8 demo'
+mail: hannes.kirsman@eesti.ee
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
